@@ -1,4 +1,4 @@
-class
+1class
 {
 a=10;
 b=30;
